@@ -168,7 +168,7 @@ y como todo arte, la informática debe ser realizada con destreza y belleza."
 
 | Friedem's Stats | Lenguajes Más Usados |
 | ------------- | ------------- |
-| ![Friedemmm's Stats](https://github-readme-stats.vercel.app/api?username=Friedemmm&theme=omni&show_icons=true&hide_border=true&count_private=true)  | ![Friedemmm's Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Friedemmm&theme=omni&show_icons=false&hide_border=true&layout=compact) 
+| ![Friedemmm's Stats](https://github-readme-stats-three-psi-73.vercel.app/api?username=Friedemmm&theme=omni&show_icons=true&hide_border=true&count_private=true)  | ![Friedemmm's Streak](https://github-readme-stats-three-psi-73.vercel.app/api/top-langs/?username=Friedemmm&theme=omni&show_icons=true&hide_border=true&layout=compact) 
 
 <!--snake-->
 
