@@ -181,3 +181,4 @@ y como todo arte, la informática debe ser realizada con destreza y belleza."
   <!-- iconos: https://github.com/tandpfun/skill-icons-->
   <!-- perfiles: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates-->
   <!-- gif type: https://readme-typing-svg.demolab.com/demo/?font=Google+Sans+Code&size=25&letterSpacing=0.2rem&duration=1500&pause=500&color=F74CE5&center=true&lines=STEM;Full+Stack+Developer;Computer+Science;Web+Developer;Cibersegurity-->
+  <!-- interactivos: https://github.com/DenverCoder1-->
