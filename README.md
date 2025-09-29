@@ -16,7 +16,7 @@
   <em>
     Soy estudiante de tercer año de <b>Ingienería de Ejecución en Computación e Informática </b> en la <a href="https://www.usach.cl"> <b>Universidad de Santiago de Chile</b></a>. <br>
     Actualmente tengo conocimiento en <b>Desarrollo Full-Stack</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> y <b>Desarrollo Web</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp.
-    <br> Soy parte de la <b>Red de Mujeres USACH</b><img src="https://github.com/Friedemmm/Friedemmm/blob/main/output-onlinegiftools-com.gif" width="25px">, un espacio que me motiva a seguir <b>creciendo profesionalmente</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> 
+    <br> Soy parte de la <b>Red de Mujeres USACH</b><img src="https://github.com/Friedemmm/Friedemmm/blob/main/STEM_gif" width="25px">, un espacio que me motiva a seguir <b>creciendo profesionalmente</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> 
     <br>y a seguir aprendiendo sobre tecnología.
 
 <!--gif-->
@@ -49,7 +49,7 @@ y como todo arte, la informática debe ser realizada con destreza y belleza."
 ## <img src="https://lenguajesdeprogramacion.net/wp-content/uploads/2022/09/lenguajes-de-programacion-logo.png" width="20px"> Lenguajes
 
   <img
-    src="https://github.com/Friedemmm/Friedemmm/blob/main/ChatGPT_Image_28_sept_2025__21_32_18-removebg-preview%20(1).png"
+    src="https://github.com/Friedemmm/Friedemmm/blob/main/ASM_foto"
     width="63"
     alt="Assembler">
     &nbsp;&nbsp;
@@ -74,7 +74,7 @@ y como todo arte, la informática debe ser realizada con destreza y belleza."
     alt="Javascript">
     &nbsp;&nbsp;
   <img
-    src="https://github.com/Friedemmm/Friedemmm/blob/main/Prolog-logo-512.png"
+    src="https://github.com/Friedemmm/Friedemmm/blob/main/Prolog_foto"
     width="60px"
     alt="Prolog">
     &nbsp;&nbsp;
@@ -151,7 +151,7 @@ y como todo arte, la informática debe ser realizada con destreza y belleza."
     
 <!-- Tools -->
    
-## <img src="https://github.com/Friedemmm/Friedemmm/blob/main/gratis-png-desarrollo-de-software-android-desarrollo-de-aplicaciones-moviles-herramientas-removebg-preview.png" width="30px"> Herramientas
+## <img src="https://github.com/Friedemmm/Friedemmm/blob/main/Android_foto" width="30px"> Herramientas
 
 <img
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg"
