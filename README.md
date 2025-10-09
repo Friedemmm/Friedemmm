@@ -14,10 +14,10 @@
 <!--descripcion-->
 <p align="center">
   <em>
-    Soy estudiante de tercer año de <b>Ingienería de Ejecución en Computación e Informática </b> en la <a href="https://www.usach.cl"> <b>Universidad de Santiago de Chile</b></a>. <br>
+    Soy estudiante de tercer año de <b>Ingenería de Ejecución en Computación e Informática </b> en la <a href="https://www.usach.cl"> <b>Universidad de Santiago de Chile</b></a>. <br>
     Actualmente tengo conocimiento en <b>Desarrollo Full-Stack</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> y <b>Desarrollo Web</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp.
     <br> Soy parte de la <b>Red de Mujeres USACH</b><img src="https://github.com/Friedemmm/Friedemmm/blob/main/STEM_gif" width="25px">, un espacio que me motiva a seguir <b>creciendo profesionalmente</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> 
-    <br>y a seguir aprendiendo sobre tecnología.
+    <br>y seguir aprendiendo sobre tecnología.
 
 <!--gif-->
 <br/>
@@ -37,11 +37,11 @@ y como todo arte, la informática debe ser realizada con destreza y belleza."
 
 ## 📖 Sobre mi
 
-* 💻 Soy una persona curiosa.
+* 💻 Siempre busco aprender a desarrollar mis propias ideas y proyectos.
 * 🎨 Me gusta tener diseños bonitos y creativos para cualquier proyecto.
-* 📱 Soy ordenada y estructurada. Aunque distraida.
+* 📱 Soy ordenada, estructurada y perfeccionista.
 * 🎓 Actualmente tengo un diplomado en Análisis de Datos y estoy estudiando la carrera de Ingeniería.
-* 🌐 Me gusta participar en cursos y certificaciones.
+* 🌐 También participo en cursos y certificaciones para mantenerme actualizada en nuevas tecnologías.
 
 <!-- Languages -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
