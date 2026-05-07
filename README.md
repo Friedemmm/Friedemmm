@@ -7,8 +7,7 @@
 
 <!--redes-->
 <p align="center">
-<a href="https://www.linkedin.com/in/sofía-vergara-godoy" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="30" width="30" /></a>&nbsp;
-<a href="https://www.instagram.com/friedemmm/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/sofía-vergara-godoy" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/friedemmm/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 <!--descripcion-->
@@ -48,116 +47,25 @@ y como todo arte, la informática debe ser realizada con destreza y belleza."
 
 ## <img src="https://lenguajesdeprogramacion.net/wp-content/uploads/2022/09/lenguajes-de-programacion-logo.png" width="20px"> Lenguajes
 
-  <img
-    src="https://github.com/Friedemmm/Friedemmm/blob/main/ASM_foto"
-    width="63"
-    alt="Assembler">
-    &nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg"
-    width="60px"
-    alt="Python">
-    &nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg"
-    width="60px"
-    alt="C">
-    &nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg"
-    width="60px"
-    alt="Java">
-    &nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"
-    width="60px"
-    alt="Javascript">
-    &nbsp;&nbsp;
-  <img
-    src="https://github.com/Friedemmm/Friedemmm/blob/main/Prolog_foto"
-    width="60px"
-    alt="Prolog">
-    &nbsp;&nbsp;
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg"
-    width="60px"
-    alt="Scheme">
-    &nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"
-    width="60px"
-    alt="HTML">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg"
-    width="60px"
-    alt="css">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+![My Lenguajes](https://skillicons.dev/icons?i=python,c,java,javascript&perline=10)
   
 <!-- Frameworks -->
   
 ## <img src="https://cdn-icons-png.flaticon.com/512/2620/2620969.png" width="20px"> Frameworks
   
-  <img
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Dark.svg"
-    width="60px"
-    alt="Vue 3">
-    &nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg"
-    width="60px"
-    alt="Spring Boot">
-    &nbsp;&nbsp;
+![My Frameworks](https://skillicons.dev/icons?i=spring,vue&perline=10)
   
 <!-- Storages -->
   
 ## <img src="https://static.vecteezy.com/system/resources/thumbnails/029/345/981/small_2x/database-icon-data-analytics-icon-monitoring-big-data-analysis-containing-database-free-png.png" width="20px"> Storages
 
-  <img
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg"
-    width="60px"
-    alt="PostgreSQL">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg"
-    width="60px"
-    alt="MySQL">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- SO -->
-  
-## <img src="https://cdn-icons-png.flaticon.com/512/689/689358.png" width="20px"> Sistemas Operativos
-
-  <img
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg"
-    width="60px"
-    alt="Windows">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg"
-    width="60px"
-    alt="Linux">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ubuntu-Dark.svg"
-    width="60px"
-    alt="Ubuntu">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kali-Dark.svg"
-    width="60px"
-    alt="Kalilinux">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+![My OS](https://skillicons.dev/icons?i=windows,linux&perline=10)
     
 <!-- Tools -->
    
 ## <img src="https://github.com/Friedemmm/Friedemmm/blob/main/Android_foto" width="30px"> Herramientas
 
-<img
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg"
-    width="60px"
-    alt="Git">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+![My Tools](https://skillicons.dev/icons?i=git,vite,docker,jenkins&perline=10)
 
 <!--stats-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
