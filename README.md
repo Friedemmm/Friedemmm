@@ -57,6 +57,8 @@ y como todo arte, la informática debe ser realizada con destreza y belleza."
   
 ![My Backend](https://skillicons.dev/icons?i=express,nodejs,spring&perline=10)
 
+### Frontend
+
 ![My Frontend](https://skillicons.dev/icons?i=vue,react&perline=10)
   
 <!-- Storages -->
