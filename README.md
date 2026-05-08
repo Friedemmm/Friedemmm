@@ -52,8 +52,12 @@ y como todo arte, la informática debe ser realizada con destreza y belleza."
 <!-- Frameworks -->
   
 ## <img src="https://cdn-icons-png.flaticon.com/512/2620/2620969.png" width="20px"> Frameworks
+
+### Backend
   
-![My Frameworks](https://skillicons.dev/icons?i=spring,vue&perline=10)
+![My Backend](https://skillicons.dev/icons?i=express,nodejs,spring&perline=10)
+
+![My Frontend](https://skillicons.dev/icons?i=vue,react&perline=10)
   
 <!-- Storages -->
   
@@ -65,7 +69,7 @@ y como todo arte, la informática debe ser realizada con destreza y belleza."
    
 ## <img src="https://github.com/Friedemmm/Friedemmm/blob/main/Android_foto" width="30px"> Herramientas
 
-![My Tools](https://skillicons.dev/icons?i=git,vite,docker,jenkins&perline=10)
+![My Tools](https://skillicons.dev/icons?i=git,docker&perline=10)
 
 <!--stats-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
